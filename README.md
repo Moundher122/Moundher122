@@ -1,10 +1,10 @@
+### <div align="center">I'm moundher bouroumana, a full-stack app dev and ml enthusiast👨‍💻
+   </div>  
+  
+
 <div align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm1ja216eXZidWc2Z2Fpa2I3dmc2ZHN3a3YwcXZqd3B2YWd5N240aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif" align="center" style="width: 100%" />
 </div>  
-  
-
-### <div align="center">I'm moundher bouroumana, a full-stack app dev and ml enthusiast👨‍💻
-   </div>  
   
 
 - 🌱 I’m currently learning ML and DS  
@@ -101,11 +101,7 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+  
 
 <br/>  
 
