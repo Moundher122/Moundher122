@@ -126,6 +126,8 @@
 <br />
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting Up a task Queue using Celery and RabbitMQ WITH DJANGO](https://medium.com/@bouroumanamoundher/setting-up-a-task-queue-using-celery-and-rabbitmq-with-django-1f96dd8b885e?source=rss-6a12ecaaa907------2)
+- [Understanding the N+1 Problem in Django &lpar;And How to Fix It&rpar;](https://medium.com/@bouroumanamoundher/understanding-the-n-1-problem-in-django-and-how-to-fix-it-d8dcc7573bd3?source=rss-6a12ecaaa907------2)
 <!-- BLOG-POST-LIST:END -->
 
 ----
