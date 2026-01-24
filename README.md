@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moundher122" alt="moundher122" /></a> </p>
 
-- 🔭 I’m currently working on [CP2 Project](https://github.com/Moundher122/CP2Project)
+- 🔭 I’m currently working on [shms](https://github.com/Moundher122/shms)
 
 - 🌱 I’m currently learning **DL**
 
