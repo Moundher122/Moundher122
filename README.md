@@ -7,12 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@bouroumanamoundher](https://medium.com/@bouroumanamoundher)
 
-- 💬 Ask me about **django,python,backend**
-
 - 📫 How to reach me **bouroumanamoundher@gmail.com**
-
-- ⚡ Fun fact **i was thinking that im a designer**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [When Monoliths Break: Rethinking Transactions in Microservices](https://blog.dataengineerthings.org/when-monoliths-break-rethinking-transactions-in-microservices-8c359fba9efe?source=rss-6a12ecaaa907------2)
