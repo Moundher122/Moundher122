@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm moundher bouroumana</h1>
-<h3 align="center">A Backend And System Enginner from Algeria</h3>
+<h1 align="center">Hi, I'm moundher bouroumana</h1>
+<h3 align="center">A Backend And System Enginner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moundher122&label=Profile%20views&color=980eb4&style=plastic" alt="moundher122" /> </p>
 
