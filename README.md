@@ -2,6 +2,7 @@
 <h3 align="center">A Backend And System Enginner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moundher122&label=Profile%20views&color=980eb4&style=plastic" alt="moundher122" /> </p>
+<a href="https://wakatime.com/@37b84c53-abac-430a-b207-9a178f1fa28a"><img src="https://wakatime.com/badge/user/37b84c53-abac-430a-b207-9a178f1fa28a.svg" alt="Total time coded since Feb 12 2026" /></a>
 
 - 🔭 I’m currently working on [dot](https://github.com/Moundher122/dot),[zp](https://github.com/Moundher122/zp),
 
