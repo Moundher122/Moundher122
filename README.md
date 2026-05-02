@@ -16,9 +16,7 @@
 - [Understanding the N+1 Problem in Django &lpar;And How to Fix It&rpar;](https://medium.com/@bouroumanamoundher/understanding-the-n-1-problem-in-django-and-how-to-fix-it-d8dcc7573bd3?source=rss-6a12ecaaa907------2)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Another side:</h3>
 <p align="left">
-<a href="https://kaggle.com/moundherbouroumana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="moundherbouroumana" height="30" width="40" /></a>
 <a href="https://www.behance.net/moundhebouroum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="moundhebouroum" height="30" width="40" /></a>
-<a href="https://medium.com/@bouroumanamoundher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bouroumanamoundher" height="30" width="40" /></a>
 </p>
